@@ -247,10 +247,6 @@ pytest tests/test_data_processor.py -v
 pytest tests/test_llm_integration.py -v
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Setup
 ```bash
 # Install development dependencies
@@ -274,10 +270,6 @@ black data_service/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
-
-This software is for educational and research purposes only. Trading involves substantial risk of loss and is not suitable for all investors. Past performance does not guarantee future results. Please consult with a financial advisor before making any investment decisions.
-
 ## 🙏 Acknowledgments
 
 - [Binance API](https://binance-docs.github.io/apidocs/) for cryptocurrency data
@@ -288,17 +280,4 @@ This software is for educational and research purposes only. Trading involves su
 
 
 
-<div align="center">
-  <p>Made with ❤️ by the Quantitative Trading Community</p>
-  <p>
-    <a href="https://github.com/yourusername/tradingsystem/stargazers">
-      <img src="https://img.shields.io/github/stars/yourusername/tradingsystem" alt="Stars">
-    </a>
-    <a href="https://github.com/yourusername/tradingsystem/network">
-      <img src="https://img.shields.io/github/forks/yourusername/tradingsystem" alt="Forks">
-    </a>
-    <a href="https://github.com/yourusername/tradingsystem/issues">
-      <img src="https://img.shields.io/github/issues/yourusername/tradingsystem" alt="Issues">
-    </a>
-  </p>
 </div> 
